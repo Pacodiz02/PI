@@ -1,0 +1,19 @@
+{
+        "version": "10",
+        "aliases": {
+                "local": {
+                        "url": "http://www.minio-pacodiz.com:9199",
+                        "accessKey": "####",
+                        "secretKey": "####",
+                        "api": "S3v4",
+                        "path": "auto"
+                },
+                "s3": {
+                        "url": "https://s3.amazonaws.com",
+                        "accessKey": "####",
+                        "secretKey": "####",
+                        "api": "S3v4",
+                        "path": "auto"
+                }
+        }
+}
